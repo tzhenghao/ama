@@ -2,7 +2,7 @@
 
 A repository to ask [@zhenghaooo](https://twitter.com/zhenghaooo) anything.
 
-I currently work at Hologram and maintain a [personal website](http://zhenghaotan.com) If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+I currently work at Hologram and maintain a [personal website](http://zhenghaotan.com). If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
 
 ### Ask a question
 
