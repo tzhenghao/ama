@@ -24,7 +24,7 @@ into some of the older threads.
 
 ### Email
 
-This is my preferred method of communication. Shoot me an [email](tanzhao@umich.edu) if you want to say hi.
+This is my preferred method of communication. Shoot me an email (tanzhao@umich.edu) if you want to say hi.
 
 ### Twitter
 
